@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<title>Celebrations</title>
+</header>
+<body>
+<h1>Celebrations begin here pictures loading</h1>
+<a href = "index1.html">Start from begining</a>
+<img = "mermaid.jpeg"></img>
+</body>
+</html>
